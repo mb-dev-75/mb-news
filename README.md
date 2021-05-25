@@ -28,6 +28,8 @@ PS: Your Wordpress website requires a template that uses [Bootstrap](https://get
 - Choose the **number of articles** to display (6, 8 , 9, 12, 15)
 - Display or not the **arrows**
 - Display or not the **dots**
+- Enable or not the carousel **autoplay**
+- Control the autoplay **speed**
 
 <br />
 
